@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Distance Sensor</string>
+    <string name="distance">Distance</string>
+    <string name="none_paired">No devices have been paired</string>
+</resources>
